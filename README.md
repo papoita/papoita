@@ -1,7 +1,7 @@
 ### Hi there 👋! 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+my+name+is+Paola;Welcome+to+my+repository)](https://git.io/typing-svg)
 
-A scientist that loves to code! Water bioremediation and carbon credit markets led me to want to learn how to make my own apps.  
+A scientist that loves to code! Water bioremediation and carbon credit markets led me to software development.  
 
 - 🔭 I’m currently working on a weather application using react. After that I have a portafolio to create and start learning python.
 - 🌱 I’m currently preparing for technical interviews to enter the tech world as a developer.
