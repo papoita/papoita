@@ -9,7 +9,7 @@ A scientist that loves to code! Water bioremediation and carbon credit markets l
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: just began collecting legos!
 
- ## ⚡ Technologies
+ ## Technologies ⚡ 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -22,16 +22,6 @@ A scientist that loves to code! Water bioremediation and carbon credit markets l
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
-
-
-## Github Stats
-
- <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=papoita">
-</p>
-
-<p align="center">
-    <img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white">
-    <a href="https://github.com/papoita" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/papoita/papoita?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
 
   ## Follow Me
 [![Gmail Badge](https://img.shields.io/badge/-paolaperez8@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paolaperez8@gmail.com)](mailto:paolaperez8@gmail.com)
