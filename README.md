@@ -3,11 +3,12 @@
 
 A scientist that loves to code! Water bioremediation and carbon credit markets led me to software development.  
 
-- 🔭 I’m currently working on a weather application using react. After that I have a portafolio to create and start learning python.
+- 🔭 I’m currently working on several projects to include in my portafolio, some are front-end focused while some are more heavy on backend. Discovering the benefits of dif types of TDD from Jest, Cypress to Storybooks.
 - 🌱 I’m currently preparing for technical interviews to enter the tech world as a developer.
-- 💬 Ask me about anything
+- 💬 Let's connect to chat about #womenintech, #latinxintech and #sofware engineering.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: just began collecting legos!
+- ⚡  Enjoy collecting and building legos 
+- 💕 I love to invest time with my family 👨‍👩‍👦🐶 
 
  ## Technologies ⚡ 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
